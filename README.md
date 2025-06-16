@@ -1,6 +1,6 @@
 <!-- Profile README for Hollowborn -->
 
-<h1 align="center">Hi, I'm Hollowborn 👋</h1>
+<h1 align="center">Hi, I'm Finnex 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Svelte-orange?style=flat-square&logo=svelte" />
