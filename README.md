@@ -42,7 +42,8 @@
 
 ## 👓 Fun Fact
 
-I wear glasses (blurry vision gang 👓).
+- I wear glasses (blurry vision gang 👓).
+- I also draw on my free time < ✒️/>.
 
 ---
 
