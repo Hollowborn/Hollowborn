@@ -15,7 +15,7 @@
 
 - 🎓 **Computer Science student** (incoming 4th year)
 - 🚀 Excited about the future of tech & always learning new things
-- 💻 **Web Development:** Svelte, npm, shadcn-svelte components
+- 💻 **Web Development:** Svelte, shadcn-ui, Tailwind CSS
 - 🎮 **Game Development:** GameMaker Studio
 - 📝 **Editor:** VSCode
 - 🌐 Currently exploring: web projects, new frameworks, & languages
