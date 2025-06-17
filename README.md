@@ -18,7 +18,7 @@
 - 💻 **Web Development:** Svelte, shadcn-ui, Tailwind CSS
 - 🎮 **Game Development:** GameMaker Studio
 - 📝 **Editor:** VSCode
-- 🌐 Currently exploring: web projects, new frameworks, & languages
+- 🌐 **Currently exploring:** web projects, new frameworks, & languages
 
 ---
 
