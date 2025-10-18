@@ -1,7 +1,7 @@
 ### Hello, I am Finnex!
 
 I'm currently exploring frameworks, and libraries that are interesting (for me, at least). Finding fun, and time-saving stuff is really beneficial. 
-As a matter of fact, ``SvelteKit`` and ``shadcn-ui`` are both awesome stuff, they are just that good!
+In my journey of finding great things I found: ``SvelteKit`` and ``shadcn-ui``. Both are awesome stuff, you should try them out too!
 
 ### (Social) Links
 > [MonkeyType](https://monkeytype.com/profile/finnex)
