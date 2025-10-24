@@ -5,4 +5,5 @@ In my journey of finding great things I found: ``SvelteKit`` and ``shadcn-ui``. 
 
 ### (Social) Links
 > [MonkeyType](https://monkeytype.com/profile/finnex)
+
 > [LinkedIn](https://www.linkedin.com/in/charles-ithan-amahan-b83313296/)
