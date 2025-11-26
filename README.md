@@ -7,7 +7,8 @@ I'm currently exploring frameworks, and libraries that are interesting (for me, 
 - [``Colemak-DH``](https://colemak.com) (keyboard typing layout)
 - [``Svelte (5) / SvelteKit``](https://svelte.dev/) (JS framework)
 - [``shadcn-ui``](https://github.com/shadcn-ui) (open-source component library)
-- [``MonkeyType``](https://monkeytype.com) (typing website, fav) 
+- [``MonkeyType``](https://monkeytype.com) (typing website, fav)
+- [``ObsidianMD``](https://obsidian.md) (powerful note-taking app) 
 
 ## (Social) Links
 
