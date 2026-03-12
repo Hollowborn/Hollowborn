@@ -1,6 +1,6 @@
 ### Hello, I am Finnex!
 
-I'm currently exploring frameworks, and libraries that are interesting (for me, at least). Finding fun, and time-saving stuff is really beneficial. 
+I'm currently exploring frameworks, and libraries that are interesting (for me, at least). Finding fun, and time-saving stuff is really beneficial for _moi_ sanity.
 
 
 ## Fun stuffs
